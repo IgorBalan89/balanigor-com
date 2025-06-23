@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { cn } from "@/lib/utils";
+import { cn } from "../lib/utils";
 const skills = [
   { name: "HTML/CSS", level: 90, category: "frontend" },
   { name: "JavaScript", level: 70, category: "frontend" },
