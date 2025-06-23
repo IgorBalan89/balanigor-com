@@ -1,8 +1,7 @@
 {
   "name": "igor-portfolio",
-  "homepage": "https://igorbalan89.github.io/balanigor-com",
-  "private": true,
-  "version": "0.0.0",
+  "homepage": "https://igorbalan89.github.io/balanigor-com/",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
