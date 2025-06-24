@@ -3,6 +3,7 @@
   "homepage": "https://igorbalan89.github.io/balanigor-com/",
   "version": "0.0.1",
   "type": "module",
+  "private": "false",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
