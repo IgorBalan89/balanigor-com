@@ -4,7 +4,7 @@ import { Home } from "./pages/Home.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="/balanigor-com">
+  <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />} />
     </Routes>
